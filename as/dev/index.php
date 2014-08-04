@@ -14,23 +14,23 @@
 	<title>Aram Zucker-Scharff's Resume</title>
   
 	<!-- Included CSS Files -->
-	<link rel="stylesheet" href="stylesheets/foundation.css">
-	<link rel="stylesheet" href="stylesheets/app.css">
-	<link rel="stylesheet" href="stylesheets/user.css">
+	<link rel="stylesheet" href="../../stylesheets/foundation.css">
+	<link rel="stylesheet" href="../../stylesheets/app.css">
+	<link rel="stylesheet" href="../../stylesheets/user.css">
 	<link href='http://fonts.googleapis.com/css?family=Playfair+Display|EB+Garamond' rel='stylesheet' type='text/css'>
 
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="stylesheets/ie.css">
 	<![endif]-->
 	
-	<script src="javascripts/modernizr.foundation.js"></script>
+	<script src="../../javascripts/modernizr.foundation.js"></script>
 
 	<!-- IE Fix for HTML5 Tags -->
 	<!--[if lt IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 	
-	<link rel="stylesheet" href="stylesheets/print.css" media="print">
+	<link rel="stylesheet" href="../../stylesheets/print.css" media="print">
 
 </head>
 <body>
@@ -41,7 +41,7 @@
 			<div class="row">
 				<div id="topid" class="twelve columns">
 					<h2>Aram Zucker-Scharff</h2>
-					<h5>2-14 50th Ave, Apt. 308W &#149; Long Island City, NY 11101 &#149; (703) 829-0532</h5>
+					<h5>2-14 50th Ave, Apt. 308W &#149; LIC, NY, 11101 &#149; (703) 829-0532</h5>
 					<h5>Full R&#233;sum&#233; available at <a href="http://aramzs.me/resume">http://aramzs.me/resume</a> &#149; a@aramzs.me</h5>
 					<hr />
 				</div>
@@ -53,7 +53,7 @@
 					<h4 class="section-title">Skills:</h4>
 				</div>
 				<div class="ten columns">
-					<p><b>PHP</b>, <b>MySQL</b>, <b>HTML5</b>, <b>CSS3</b>, <b>jQuery</b>, <b>Adobe Creative Suite</b>, <b>WordPress</b>, WordPressMU/MS, MailChimp, Google AdWords, <b>Google Analytics</b>, Twitter, Facebook, LinkedIn, OpenX, <b>SEO</b>, <b>Social Media Optimization</b>, Responsive Design, Convergent media, Targeted Facebook advertising, <b>AP Style</b>, Drupal, Blogger, QuarkXPress, Audacity, Tumblr, Storify, CoverItLive, Livestream.com, TextPattern, Prezi, SoundBooth, PHP-Fusion, Invision, phpBB, Speed reading, TADS3, Inform7, Omeka, <b>GitHub</b>, <b>Usability</b>, UX Testing, Microsoft Office</p>
+					<p><b>PHP</b>, <b>MySQL</b>, <b>HTML5</b>, <b>CSS3</b>, <b>jQuery</b>, <b>Adobe Creative Suite</b>, <b>WordPress</b>, WordPressMS, MailChimp, Google AdWords, <b>Google Analytics</b>, OpenX, <b>SEO</b>, <b>Social Media Optimization</b>, Responsive Design, Convergent media, <b>AP Style</b>, Drupal, Blogger, QuarkXPress, Audacity, CoverItLive, Livestream.com, TextPattern, Prezi, Omeka, <b>Git</b>, <b>Usability</b>, UX Testing</p>
 				</div>
 			</div>
 			
@@ -75,6 +75,7 @@
 						<p><span class="jobtitle">Content Strategist</span></p>
 						<ul class="jobaccomp">
 							<li>Works with all divisions to improve overall web presence by leveraging new technology, user experience data and narrative design.</li>
+                            <li>Launched multiple projects, including a new website and two open-source WordPress plugins.</li>
 						</ul>
 					</div>
 	
@@ -92,7 +93,7 @@
 							<li>Provides consulting and development for online media.</li>
 							<li>Retained to provide and implement advice on branding, marketing, targeting, social media integration and engagement to onAir LLC.</li>
 							<li>Retained by onAIR to implement online content platform through PHP, HTML and Javascript development.</li>
-							<li>Retained by Center for History and New Media (George Mason University) to develop on Sloan Foundation-funded Press Forward project. Work targeted at building aggregation tools.</li>
+							<li>Retained as Lead Developer for Center for History and New Media (George Mason University) to build Sloan Foundation-funded Press Forward project. Work targeted at building aggregation tools.</li>
 							<li>Provides social media, WordPress and SEO training to select professors and classes at George Mason University.</li>
 							<li>Developed day-long Alternate Reality Game (The Hunt 2) with puzzle focus.</li>
 						</ul>
@@ -127,13 +128,12 @@
 						<p><span class="jobtitle">Assistant Director for Marketing and Communications</span></p>
 						<ul class="jobaccomp">
 							<li>Administrative Faculty</li>
-							<li>Engage students through social and traditional media. Oversee social media and branding, including 18 Twitter accounts and eight Facebook accounts.</li>
+							<li>Engage students through social and traditional media. Oversee social media and branding.</li>
 							<li>Deploy and manage the onMason blogging and site-building platform.</li>
 							<li>Build search engine and social media optimization into various student media web presences.</li>
 							<li>Manage marketing and public relations for the office. Work to develop and strengthen outlet brands.</li>
 							<li>Hire and supervise students </li>
 							<li>Increase ad sales and leverage non-traditional methods and platforms in order to boost revenue.</li>
-							<li>Represent Student Media.</li>
 							<li>Develop, design, modify, and improve student media outlet websites. Guide students interested in learning and building their own websites.</li>
 							<li>Developed WordPress themes and plugins, including a responsive WordPress theme.</li>
 							<li>Developed on Connect2Mason Drupal site.</li>
@@ -143,7 +143,6 @@
 						<div class="promoted">
 							<p><span class="black label">Promoted in 2011 from</span> <span class="jobtitle">Community Manager</span></p>
 							<p><span class="black label">Promoted in 2010 from</span> <span class="jobtitle">Technology Manager</span></p>
-							<p><span class="black label">Promoted in 2008 from</span> <span class="jobtitle">Freelancer</span></p>
 						</div>
 					</div>
 	
@@ -178,33 +177,13 @@
 					<div class="clearfloat">
 						<p><span class="jobtitle">Lead Resident Technician, Chesapeake-area</span></p>
 						<ul class="jobaccomp">
-							<li>Worked with clients.</li>
 							<li>Maintained and repaired student computer systems on-site.</li>
 							<li>Managed a number of other resident technicians in my area.</li>
-							<li>Worked with the MAGIC ticket system.</li>
 							<li>Monitored an advanced phone-system and instant message for help requests.</li>
 						</ul>
 						<div class="promoted">
 							<p><span class="black label">Promoted in 2008 from</span> <span class="jobtitle">Resident Technician</span></p>
 						</div>
-					</div>
-	
-				</div>
-			</div>
-
-			<div class="row item">
-				<div class="two columns">
-					2008-2009
-				</div>
-				<div class="ten columns">
-					<div class="left joblocation"><p><span class="item-title">United Press International</span> - Voice of Young Voters</p></div><div class="right location">Washington D.C.</div>
-					<div class="clearfloat">
-						<p><span class="jobtitle">Featured Blogger</span></p>
-						<ul class="jobaccomp">
-							<li>Wrote and promoted posts on the topic of economics three times a week.</li>
-							<li>Sparked a lively debate, building an audience, expressing opinions and ensuring that all sides of the youth vote were represented.</li>
-							<li>Wrote document, at request of UPI, instructing journalists on how to promote their work online.</li>
-						</ul>
 					</div>
 	
 				</div>
@@ -219,12 +198,9 @@
 					<div class="clearfloat">
 						<p><span class="jobtitle">Managing Editor</span></p>
 						<ul class="jobaccomp">
-							<li>Oversaw the proper formatting and insertion of national and local advertisements</li>
 							<li>Coordinated coverage of multiple campuses.</li>
 							<li>Organized a team of editors and staff members.</li>
-							<li>Oversaw organization and design of a weekly newspaper, checking news budgets and enforcing deadlines.</li>
 							<li>Edited copy on 8 to 22 pages a week.</li>
-							<li>Coordinated various internal sections.</li>
 							<li>Provided support as a peer mentor to students.</li>
 							<li>Hired and trained staff.</li>
 						</ul>
@@ -232,24 +208,6 @@
 							<p><span class="black label">Promoted in 2007 from</span> <span class="jobtitle">Copy Chief</span></p>
 							<p><span class="black label">Promoted in 2007 from</span> <span class="jobtitle">Copy Editor</span></p>
 						</div>
-					</div>
-	
-				</div>
-			</div>
-
-			<div class="row item">
-				<div class="two columns">
-					2006-2008
-				</div>
-				<div class="ten columns">
-					<div class="left joblocation"><p><span class="item-title">VoxPop</span> - Student magazine</p></div><div class="right location">Fairfax, VA</div>
-					<div class="clearfloat">
-						<p><span class="jobtitle">Copy Chief</span></p>
-						<ul class="jobaccomp">
-							<li>Coordinated a team of four copy editors.</li>
-							<li>Contacted and managed copy editors and writers to insure quality and accuracy.</li>
-							<li>Formulated a style guide to determine the overall style for writers of the magazine.</li>
-						</ul>
 					</div>
 	
 				</div>
@@ -267,7 +225,7 @@
 							<li>Managed all writing- and text-focused projects.</li>
 							<li>Managed content for associated projects from a team, located all over the world, ranging in age from 15 to 32.</li>
 							<li>Oversaw and maintained all textual content for the project.</li>
-							<li>Managed a community of interested consumers and participants, insuring all contributions met the standards for the project.</li>
+							<li>Managed a community of interested consumers and participants, insuring all contributions met project standards.</li>
 							<li>Collaborated with the Art Lead, Project Leads and Lead Developer.</li>
 						</ul>
 					</div>
@@ -286,11 +244,8 @@
 				<div class="ten columns">
 					<p>
 						<span class="item-title">Top Honors Award for Most Effective Technology Tool</span> - for the development of Mason Votes<br />
-						<span class="item-title">Honors Student</span> - George Mason University<br />
 						<span class="item-title">Four-year academic scholarship</span> - to George Mason University<br />
 						<span class="item-title">Dean's Challenge Scholarship</span> - College of Humanities and Social Sciences, 2008-2009<br />
-						<span class="item-title">National Society of Collegiate Scholars</span><br />
-						<span class="item-title">Dean's List</span> - five semesters<br />
 					</p>
 				</div>
 			<div class="row"></div>
@@ -305,15 +260,14 @@
 					<h4 class="section-title">Projects:</h4>
 				</div>
 				<div class="ten columns">
-					<p>Twitter Archival Shortcode plugin, http://hacktext.com, http://aramzs.me, Thematic Nightmare theme, The Use of Artifacts in Narrative Design eBook, P2 for Kindle theme.</p>
+					<p>PressForward; CFO Responsive Website; Response Stack; WP-Advanced Google Analytics; Twitter Archival Shortcode plugin, http://hacktext.com, http://aramzs.me, Thematic Nightmare theme, P2 for Kindle theme.</p>
 					<p class="present"><span class="item-title">Selected Presentations:</span> White Space and Responsive Web Design; SEO101 for Journalists; SEO201 for Journalists; 50 free tools for journalists; Brand.me: Using social media to brand yourself and your newsroom; Narrative Design in Games and the Classroom; Mobile Use in Higher Ed; Using blogging in your news organization.</p>
-					<p class="appear"><span class="item-title">Appearances:</span> <i>Twitterville</i>, Hillel.org, FOX5, The Atlantic Online, The Chronicle of Higher Education online, CoPress, THATCamp, DC Media Makers, College Media Association NYC Conference: 2012 and 2011.</p>
+					<p><span class="item-title">Appearances:</span> <i>Twitterville</i>, Hillel.org, FOX5, The Atlantic Online, The Chronicle of Higher Education online, WordCamp, CoPress, THATCamp, DC Media Makers, College Media Association NYC Conference: 2012 and 2011.</p>
 				</div>
 	
 			
 			<hr />
-		</div>
-		
+		</div>		
 		<div class="row">
 			<div class="row">
 				<div class="two columns">
@@ -326,27 +280,14 @@
 				</div>
 				<div class="eight columns">
 					<h3 class="item-title">George Mason University</h3>
-					<p><span class="jobtitle">Bachelor of Science in Information Technology, Jan. 2011</span></p>
-					<p class="details">Concentration: Network Administration / Security</p>
+					<p><span class="jobtitle">Bachelor of Science in Information Technology; <br />
+                        Bachelor of Arts in English, <br />
+                        Jan. 2011</span></p>
 				</div>
 				<div class="two columns edlocal">
 					<p>Fairfax, VA</p>
 				</div>
 				
-			</div>
-			<div class="row degree">
-				<div class="two columns">
-					
-				</div>
-				<div class="eight columns">
-					<h3 class="item-title">George Mason University</h3>
-					<p><span class="jobtitle">Bachelor of Arts in English, Jan. 2011</span></p>
-					<p class="details">Concentration: Creative Writing</p>
-				</div>
-				<div class="two columns edlocal">
-					<p>Fairfax, VA</p>
-				</div>
-
 			</div>
 		</div>		
 
@@ -357,9 +298,9 @@
 
 
 	<!-- Included JS Files -->
-	<script src="javascripts/jquery.min.js"></script>
-	<script src="javascripts/foundation.js"></script>
-	<script src="javascripts/app.js"></script>
+	<script src="../../javascripts/jquery.min.js"></script>
+	<script src="../../javascripts/foundation.js"></script>
+	<script src="../../javascripts/app.js"></script>
 
 </body>
 </html>
