@@ -243,6 +243,7 @@
 				</div>
 				<div class="ten columns">
 					<p>
+						<span class="item-title">FOLIO 15 under 30</span> - young professionals in magazine media<br />
 						<span class="item-title">Top Honors Award for Most Effective Technology Tool</span> - for the development of Mason Votes<br />
 						<span class="item-title">Four-year academic scholarship</span> - to George Mason University<br />
 						<span class="item-title">Dean's Challenge Scholarship</span> - College of Humanities and Social Sciences, 2008-2009<br />
