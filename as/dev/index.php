@@ -282,8 +282,7 @@
 				<div class="eight columns">
 					<h3 class="item-title">George Mason University</h3>
 					<p><span class="jobtitle">Bachelor of Science in Information Technology; <br />
-                        Bachelor of Arts in English, <br />
-                        Jan. 2011</span></p>
+                        Bachelor of Arts in English</span></p>
 				</div>
 				<div class="two columns edlocal">
 					<p>Fairfax, VA</p>
