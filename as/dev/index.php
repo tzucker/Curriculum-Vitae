@@ -12,7 +12,7 @@
 	<meta name="viewport" content="width=device-width" />
 
 	<title>Aram Zucker-Scharff's Resume</title>
-  
+
 	<!-- Included CSS Files -->
 	<link rel="stylesheet" href="../../stylesheets/foundation.css">
 	<link rel="stylesheet" href="../../stylesheets/app.css">
@@ -22,14 +22,14 @@
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="stylesheets/ie.css">
 	<![endif]-->
-	
+
 	<script src="../../javascripts/modernizr.foundation.js"></script>
 
 	<!-- IE Fix for HTML5 Tags -->
 	<!--[if lt IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
-	
+
 	<link rel="stylesheet" href="../../stylesheets/print.css" media="print">
 
 </head>
@@ -56,13 +56,33 @@
 					<p><b>PHP</b>, <b>MySQL</b>, <b>HTML5</b>, <b>CSS3</b>, <b>jQuery</b>, <b>SASS</b>, <b>Adobe Creative Suite</b>, <b>WordPress</b>, WordPressMS, MailChimp, Google AdWords, <b>Google Analytics</b>, OpenX, <b>SEO</b>, <b>Social Media Optimization</b>, Responsive Design, Convergent media, <b>AP Style</b>, Drupal, Blogger, QuarkXPress, Audacity, CoverItLive, Livestream.com, TextPattern, Prezi, Omeka, <b>Git</b>, <b>Usability</b>, UX Testing</p>
 				</div>
 			</div>
-			
+
 			<hr />
 		</div>
 		<div class="row">
 			<div class="row title-area">
 				<div class="twelve columns">
 					<h4 class="section-title">Selected Experience</h4>
+				</div>
+			</div>
+			<div class="row item">
+				<div class="two columns">
+					2015-Present
+				</div>
+				<div class="ten columns">
+					<div class="left joblocation"><p><span class="item-title">Salon Media Group</span></p></div><div class="right location">New York, NY</div>
+					<div class="clearfloat">
+						<p><span class="jobtitle">Full Stack Developer</span></p>
+						<ul class="jobaccomp">
+							<li>Launched significant upgrade to backend Content Management System.</li>
+							<li>Rebuilt front end theme to be fully responsive.</li>
+							<li>Worked to optimize and launch ad code.</li>
+							<li>Rebuilt metadata and on-page tools to fully comply with social media platforms</li>
+							<li>Worked closely with editorial and product to find and build out tools and workflow optimizations</li>
+							<li>Built Gulp-based workflow for using SASS and JSX across the entire organization.</li>
+							<li>Worked with PHP, WordPress, MySQL, Javascript, Node, YUI, React, Reflux, and Node</li>
+						</ul>
+					</div>
 				</div>
 			</div>
 			<div class="row item">
@@ -78,9 +98,9 @@
                             <li>Launched multiple projects, including a new website and two open-source WordPress plugins.</li>
 						</ul>
 					</div>
-	
+
 				</div>
-			</div>			
+			</div>
 			<div class="row item">
 				<div class="two columns">
 					2008-Present
@@ -98,7 +118,7 @@
 							<li>Developed day-long Alternate Reality Game (The Hunt 2) with puzzle focus.</li>
 						</ul>
 					</div>
-	
+
 				</div>
 			</div>
 			<div class="row item">
@@ -115,9 +135,9 @@
 							<li>Optimized website for search engines and social media. Provided tools for authors and editors to continually maximize that optimization.</li>
 						</ul>
 					</div>
-	
+
 				</div>
-			</div>			
+			</div>
 			<div class="row item">
 				<div class="two columns">
 					2008-2012
@@ -138,17 +158,17 @@
 							<li>Developed WordPress themes and plugins, including a responsive WordPress theme.</li>
 							<li>Developed on Connect2Mason Drupal site.</li>
 							<li>Developed, launched and managed Mason Votes, a political coverage hub.</li>
-							
+
 						</ul>
 						<div class="promoted">
 							<p><span class="black label">Promoted in 2011 from</span> <span class="jobtitle">Community Manager</span></p>
 							<p><span class="black label">Promoted in 2010 from</span> <span class="jobtitle">Technology Manager</span></p>
 						</div>
 					</div>
-	
+
 				</div>
 			</div>
-			
+
 			<div class="row item">
 				<div class="two columns">
 					2010
@@ -164,10 +184,10 @@
 							<li>Proposed, launched and managed a blog as part of an effort to increase brand transparency, promote content and join the discourse in the college media space.</li>
 						</ul>
 					</div>
-	
+
 				</div>
 			</div>
-			
+
 			<div class="row item">
 				<div class="two columns">
 					2007-2009
@@ -185,7 +205,7 @@
 							<p><span class="black label">Promoted in 2008 from</span> <span class="jobtitle">Resident Technician</span></p>
 						</div>
 					</div>
-	
+
 				</div>
 			</div>
 
@@ -209,10 +229,10 @@
 							<p><span class="black label">Promoted in 2007 from</span> <span class="jobtitle">Copy Editor</span></p>
 						</div>
 					</div>
-	
+
 				</div>
 			</div>
-			
+
 			<div class="row item">
 				<div class="two columns">
 					2004-2011
@@ -229,15 +249,15 @@
 							<li>Collaborated with the Art Lead, Project Leads and Lead Developer.</li>
 						</ul>
 					</div>
-	
+
 				</div>
 			</div>
-			
+
 		<hr />
 		</div>
-		
+
 		<div class="row">
-			
+
 				<div class="two columns">
 					<h4 class="section-title">Awards:</h4>
 				</div>
@@ -250,13 +270,13 @@
 					</p>
 				</div>
 			<div class="row"></div>
-			
+
 			<hr />
 		</div>
-		
+
 		<div class="row projects">
 
-			
+
 				<div class="two columns">
 					<h4 class="section-title">Projects:</h4>
 				</div>
@@ -265,10 +285,10 @@
 					<p class="present"><span class="item-title">Selected Presentations:</span> White Space and Responsive Web Design; SEO101 for Journalists; SEO201 for Journalists; 50 free tools for journalists; Brand.me: Using social media to brand yourself and your newsroom; Narrative Design in Games and the Classroom; Mobile Use in Higher Ed; Using blogging in your news organization.</p>
 					<p><span class="item-title">Appearances:</span> <i>Twitterville</i>, Hillel.org, FOX5, The Atlantic Online, The Chronicle of Higher Education online, WordCamp, CoPress, THATCamp, DC Media Makers, College Media Association NYC Conference: 2012 and 2011.</p>
 				</div>
-	
-			
+
+
 			<hr />
-		</div>		
+		</div>
 		<div class="row">
 			<div class="row">
 				<div class="two columns">
@@ -277,7 +297,7 @@
 			</div>
 			<div class="row degree">
 				<div class="two columns">
-					
+
 				</div>
 				<div class="eight columns">
 					<h3 class="item-title">George Mason University</h3>
@@ -287,9 +307,9 @@
 				<div class="two columns edlocal">
 					<p>Fairfax, VA</p>
 				</div>
-				
+
 			</div>
-		</div>		
+		</div>
 
 	</div>
 	<!-- container -->
